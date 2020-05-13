@@ -1,4 +1,4 @@
-def prime?(number)
+def prime?(numbers)
   number.all? do |
     true 
   else 

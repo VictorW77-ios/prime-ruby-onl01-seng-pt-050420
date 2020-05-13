@@ -1,4 +1,4 @@
 def prime?(numbers)
-  if number 
+  if number.is_a?(1)
     
 end

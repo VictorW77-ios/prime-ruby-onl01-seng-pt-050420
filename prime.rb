@@ -1,5 +1,5 @@
 def prime?(numbers)
-  number.all? do |
+  prime_array =  do |
     true 
   else 
     false

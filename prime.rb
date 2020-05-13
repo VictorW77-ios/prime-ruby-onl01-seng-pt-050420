@@ -1,5 +1,5 @@
 def prime?(numbers)
-  prime_array =  do |
+  prime_array = number. do |
     true 
   else 
     false

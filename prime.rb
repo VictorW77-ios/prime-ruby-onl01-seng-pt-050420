@@ -1,5 +1,5 @@
 def prime?(number)
-  number.all?
+  number.all? do |
     true 
   else 
     false

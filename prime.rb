@@ -1,5 +1,5 @@
-def prime(number)
-  if number.prime?
+def prime?(number)
+  i
     true 
   else 
     false

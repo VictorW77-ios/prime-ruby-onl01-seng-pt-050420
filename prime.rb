@@ -1,6 +1,6 @@
-def prime?(numbers)
+def prime(numbers)
   prime_array = numbers.collect do |number|
-    if
+    if prime_array.prime?
       true 
     else 
       false

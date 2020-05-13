@@ -1,5 +1,5 @@
 def prime?(numbers)
-  prime_array = number. do |
+  prime_array = numbers.all? do |number
     true 
   else 
     false
